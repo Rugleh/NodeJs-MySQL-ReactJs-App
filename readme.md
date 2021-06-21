@@ -39,4 +39,4 @@ I created a test database on MySQL Workbench 8.0 and connected to my backend Nod
 
 ### Day 2 
 
-I tried to organize the code today, I separated the frontend folder from the backend folder, created a .env file to store sensible data adding it to the .gitignore file. Also I created the React app and linked with the backend data 
+I tried to organize the code today, I separated the frontend folder from the backend folder, created a .env file to store sensible data adding it to the .gitignore file. Also, I created the React app and linked it to the backend data API
